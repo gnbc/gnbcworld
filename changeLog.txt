@@ -1,6 +1,8 @@
 
 1.0.1
 removed unused nlist command
+github/twitter integration
+upgraded jquery to 190
 
 
 1.0.0
